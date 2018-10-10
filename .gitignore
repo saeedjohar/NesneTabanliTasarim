@@ -1,0 +1,21 @@
+#IDE specific files
+.settings/
+.classpath
+.project
+
+#Binaries
+*.class 
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.war
+*.ear
+*.sar
+
+
+
